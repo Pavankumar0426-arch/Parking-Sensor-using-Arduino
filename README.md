@@ -17,7 +17,7 @@ The system uses an **HC-SR04 Ultrasonic Sensor** for distance measurement, a **B
 - Jumper Wires & Breadboard
 
 ## ⚡ Circuit Diagram
-![Circuit Diagram](circuit_diagram.png)  
+![Circuit Diagram](docs/Circuit_diagram.png)  
 *(Upload your circuit image here if available)*
 
 ## 💻 Code
