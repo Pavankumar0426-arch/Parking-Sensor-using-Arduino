@@ -21,7 +21,7 @@ The system uses an **HC-SR04 Ultrasonic Sensor** for distance measurement, a **B
 *(Upload your circuit image here if available)*
 
 ## 💻 Code
-The Arduino code is available in [`Parking_Sensor.ino`](Parking_Sensor.ino).
+The Arduino code is available in [`Parking_Sensor.ino`](docs/Parking_Sensor.ino).
 
 ## 🚀 How It Works
 1. Ultrasonic sensor measures the distance of obstacles.
