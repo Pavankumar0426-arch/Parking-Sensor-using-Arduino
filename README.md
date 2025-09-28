@@ -1,13 +1,21 @@
 # 🚗 Parking Sensor using Arduino
 
-This project implements a **Parking Sensor System** using Arduino to help drivers detect obstacles while reversing vehicles.  
-The system uses an **HC-SR04 Ultrasonic Sensor** for distance measurement, a **Buzzer** for audio alerts, and an **LED** for visual warnings.  
+## 📖 Abstract
 
-## 📌 Features
-- Real-time obstacle detection while reversing vehicles.
-- Ultrasonic sensor (HC-SR04) for accurate distance measurement.
-- Buzzer and LED alerts for proximity warnings.
-- Developed with Arduino (C/C++) for microcontroller control.
+This project presents an **Arduino-based Parking Sensor System** designed to assist drivers in avoiding collisions while reversing vehicles. The system integrates an **HC-SR04 ultrasonic sensor** to measure the distance between the vehicle and nearby obstacles. Based on the measured distance, a **buzzer** generates audio beeps and an **LED** provides visual alerts, both increasing in intensity as the vehicle approaches an obstacle. The solution is **low-cost, efficient, and easy to implement**, making it ideal for smart vehicle assistance and DIY embedded system applications.
+
+---
+
+## 📝 Description
+
+The Parking Sensor System is built around an **Arduino microcontroller**, programmed in C/C++ to control the sensor and output devices. The **HC-SR04 ultrasonic sensor** continuously measures the distance to obstacles by emitting ultrasonic waves and detecting their echo. The measured distance is then processed by the Arduino, which activates:
+
+* **LED indicators** that glow when the vehicle is within a critical range.
+* **Buzzer alerts** that change frequency (slow → fast → continuous) based on proximity.
+
+This simple yet effective system mimics commercial reverse parking sensors, enhancing **driver safety** and **vehicle protection**. It can be further extended with multiple sensors, LCD displays, or wireless modules for advanced features.
+
+---
 
 ## 🛠️ Components Used
 - Arduino Uno
