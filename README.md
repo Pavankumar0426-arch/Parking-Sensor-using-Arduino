@@ -27,8 +27,7 @@ This simple yet effective system mimics commercial reverse parking sensors, enha
 ---
 
 ## ⚡ Circuit Diagram
-![Circuit Diagram](docs/Circuit_diagram)  
-*(Upload your circuit image here if available)*
+![Circuit Diagram](docs/Circuit_diagram) 
 
 ---
 
@@ -55,4 +54,4 @@ The Arduino code is available in [`Parking_Sensor.ino`](docs/Parking_Sensor.ino)
 ---
 
 🔗 👨‍💻 Author
-**M. Pavan Kumar**
+* **M. Pavan Kumar**
