@@ -24,12 +24,18 @@ This simple yet effective system mimics commercial reverse parking sensors, enha
 - LED
 - Jumper Wires & Breadboard
 
+---
+
 ## ⚡ Circuit Diagram
 ![Circuit Diagram](docs/Circuit_diagram)  
 *(Upload your circuit image here if available)*
 
+---
+
 ## 💻 Code
 The Arduino code is available in [`Parking_Sensor.ino`](docs/Parking_Sensor.ino).
+
+---
 
 ## 🚀 How It Works
 1. Ultrasonic sensor measures the distance of obstacles.
@@ -38,6 +44,8 @@ The Arduino code is available in [`Parking_Sensor.ino`](docs/Parking_Sensor.ino)
    - LED turns **ON**.
 3. Otherwise:
    - Buzzer and LED remain **OFF**.
+
+---
 
 ## 🎯 Skills Gained
 - Sensor interfacing with Arduino.
