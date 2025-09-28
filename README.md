@@ -53,5 +53,5 @@ The Arduino code is available in [`Parking_Sensor.ino`](docs/Parking_Sensor.ino)
 
 ---
 
-🔗 👨‍💻 **Author**
-* **M. Pavan Kumar**
+## 👨‍💻 Author
+* M. Pavan Kumar
